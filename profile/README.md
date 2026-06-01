@@ -15,7 +15,7 @@ Somos un ISP venezolano con presencia en **La Victoria, San Mateo y Zuata**, ofr
 
 | Repositorio | Descripción | Estado |
 |-------------|-------------|--------|
-| [**PagosCCQ**](https://github.com/caciquetelecom/PagosCCQ) | Portal de pagos para clientes con integración BNC ESolutions, Wisphub W1/W2 y emisión fiscal HKA | [![Tests](https://github.com/caciquetelecom/PagosCCQ/actions/workflows/tests.yml/badge.svg)](https://github.com/caciquetelecom/PagosCCQ/actions/workflows/tests.yml) |
+| [**PagosCCQ**](https://github.com/caciquetelecom/PagosCCQ) | Portal de pagos para clientes con integración BNC ESolutions, Wisphub y emisión de Factura Digital | [![Tests](https://github.com/caciquetelecom/PagosCCQ/actions/workflows/tests.yml/badge.svg)](https://github.com/caciquetelecom/PagosCCQ/actions/workflows/tests.yml) |
 | [**ClubCCQ**](https://github.com/caciquetelecom/ClubCCQ) | Portal de fidelización — puntos, canjes, facturas y notificaciones push PWA | [![ClubCCQ CI](https://github.com/caciquetelecom/ClubCCQ/actions/workflows/laravel.yml/badge.svg)](https://github.com/caciquetelecom/ClubCCQ/actions/workflows/laravel.yml) |
 | [**ccqtelecom**](https://github.com/caciquetelecom/ccqtelecom) | Sistema de gestión administrativa interna (Intranet) — clientes, facturación, inventario y sincronización | — |
 
