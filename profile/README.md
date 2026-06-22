@@ -7,23 +7,7 @@ Internet por fibra óptica y radiofrecuencia en el estado Aragua, Venezuela.
 
 ## ⚡ Quiénes Somos
 
-Somos un ISP venezolano con presencia en **La Victoria, San Mateo y Zuata**, ofreciendo conectividad de alta velocidad con soporte técnico garantizado y atención personalizada. Nuestros planes van desde **250 Mbps hasta 600 Mbps**.
-
----
-
-## 🛠️ Proyectos
-
-| Repositorio | Descripción | Estado |
-|-------------|-------------|--------|
-| [**PagosCCQ**](https://github.com/caciquetelecom/PagosCCQ) | Portal de pagos para clientes con integración BNC ESolutions, Wisphub y emisión de Factura Digital | [![Tests](https://github.com/caciquetelecom/PagosCCQ/actions/workflows/tests.yml/badge.svg)](https://github.com/caciquetelecom/PagosCCQ/actions/workflows/tests.yml) |
-| [**ClubCCQ**](https://github.com/caciquetelecom/ClubCCQ) | Portal de fidelización — puntos, canjes, facturas y notificaciones push PWA | [![ClubCCQ CI](https://github.com/caciquetelecom/ClubCCQ/actions/workflows/laravel.yml/badge.svg)](https://github.com/caciquetelecom/ClubCCQ/actions/workflows/laravel.yml) |
-| [**ccqtelecom**](https://github.com/caciquetelecom/ccqtelecom) | Sistema de gestión administrativa interna (Intranet) — clientes, facturación, inventario y sincronización | — |
-
----
-
-## 🧰 Stack Tecnológico
-PHP 8.3 · Laravel 12 · MySQL · Alpine.js · Tailwind CSS · Vite
-BNC ESolutions v4.1 · Wisphub · HKA Venezuela
+Somos un ISP venezolano con presencia en **La Victoria, San Mateo y Zuata**, ofreciendo conectividad de alta velocidad con soporte técnico garantizado y atención esmerada. Nuestros planes van desde **250 Mbps hasta 600 Mbps**.
 
 ---
 
@@ -32,7 +16,7 @@ BNC ESolutions v4.1 · Wisphub · HKA Venezuela
 | Plan | Velocidad | 
 |------|-----------|
 | Explorador | Hasta 250 Mbps |
-| Tribu ⭐ | Hasta 400 Mbps |
+| Tribu | Hasta 400 Mbps |
 | Cacique | Hasta 600 Mbps |
 
 ---
